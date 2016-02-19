@@ -1,0 +1,278 @@
+ /*Premiere partie  le haut*/
+ .container{bottom: 2883px;
+        width: 1240px;
+        height: 1754px;
+        
+       ;
+    }
+    .haut{
+        width: 100%;
+height: 5.8%;
+        background: #84caee;
+    }
+     .kevin{    padding-top: 60px;
+    padding-left: 302px;
+    font-size: 35px;
+    margin-top: 0px;
+    text-transform : uppercase; 
+    font-family: 'Open Sans', sans-serif;}
+.logique{ width: 500px;
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 302px;
+        font-size: 25px;
+        padding-top: 35px;
+        color: #fff;       
+    }
+.block{display: inline-flex;         
+    padding-left: 302px;
+        }
+
+    /**/
+
+
+
+    /*Deuxieme partie du haut*/
+    .haut-deux{        
+width: 100%; 
+height: 15.9%;
+        background: #5c8aa0;
+        margin-top: 0;
+        
+    }
+    
+    .int{ font-size: 30px;
+    margin-top: 0px;
+        color: #fff;
+        font-family: 'Open Sans', sans-serif;
+        text-transform : uppercase;
+     padding-left: 302px;}
+    
+/**/
+/*Partie du milieu*/
+  
+    .milieu{ 
+        width: 100%;
+        height: 80.9%;
+        
+    }
+.dernier{display: inline-flex;} 
+    .mili{display: inline-flex;
+        padding-left: 63px;
+    font-size: 35px;}
+    .partie{display: inline-flex;
+        .info{    padding-right: 215px;
+    margin-top:100px ;
+    font-family: 'Poiret One', cursive;
+z-index: 1;}
+.kc{
+        padding-bottom: 15px;
+
+    }
+    .wbf{    width: 525px;
+    margin-left: 30px;}
+       .marge{ margin-top: 0px;
+        font-style : italic;
+        color: #fff;
+    }
+    .contact{  padding-bottom: 15px;}
+
+/**/
+
+
+/*Partie du bas */
+.bas{width: 100%;
+height: 6.5%;
+    background: #85caee;} 
+    .bas-bas{
+        width: 100%;
+height: 12.5%;
+        background:#5c8aa0;
+    }
+    .blockk{display: inline-flex;         
+    padding-left: 45px;
+        }
+.sud{margin-top: 0px;
+    list-style:none;
+    padding-right: 45px;
+    padding-left: 42px;
+text-align: right;}
+.nord{margin-top: 0px;
+   
+        padding-left: 466px; 
+    
+    padding-left: 0px;}
+    .tableau{display: inline-flex; 
+            
+    }
+    .uul{    margin-top: 12px;
+        padding-left: 65px;}
+        .ax{list-style: none;
+            padding-right: 466px;
+            padding-left: 0px;
+    margin-bottom: 0px;
+    margin-top: 13px;
+    }
+    .espace{    padding-bottom: 9px;}
+    .est{
+        padding-top: 10px;
+        font-family: 'Open Sans', sans-serif;
+ color: #fff;
+ text-align: right;
+    }
+/**/
+ /*tout les trait avec div*/
+  .trait {
+            height: 1797px;
+            width: 0px;
+            border:1px solid  grey;
+            position: absolute; 
+            margin-left: 87px;
+
+        }
+    .trai {
+            height: 0;
+            width: 1235px;
+            border:1px solid  grey;
+            position: absolute; 
+                margin-top: 62px
+            
+
+        }
+    .tra {
+            height: 390px;
+            width: 0px;
+            border:1px solid  #85caee;
+            position: absolute; 
+
+                    margin-top: 151px;
+                    margin-left: 531px;
+
+        }
+    .traa {
+            height: 447px;
+            width: 0px;
+            border:1px solid  #85caee;
+            position: absolute; 
+            margin-top: 161px;
+            
+                margin-top: 161px;
+                    margin-left: 531px;
+
+        }
+ .divi{ height: 20px;
+    width: 20px;
+background: #85caee;
+border-radius: 50%;
+margin-top:103px; 
+}
+.divii{ height: 20px;
+    width: 20px;
+background: #85caee;
+border-radius: 50%;
+margin-top:84px; 
+}
+
+ /**/
+  
+    
+   
+    
+    
+    img{
+        position: absolute;
+        width: 207px;
+height: 314px;
+            padding-top: 66px;
+    padding-left: 89px;
+    }
+    .in{font-family: 'Open Sans', sans-serif;
+        color: #fff;
+    font-size: 25px;
+    margin-right: 65px;}
+    .gotime{
+        font-family: 'Open Sans', sans-serif;
+        color: #fff;
+        font-size: 25px;}
+    
+    .pro{padding-left: 21px;
+        font-family: 'Open Sans', sans-serif;
+        color: #fff;
+    font-size: 25px;
+    margin-right: 340px;
+    }
+    .perso{
+        font-family: 'Open Sans', sans-serif;
+        color: #fff;
+        font-size: 25px;}
+    .blockk{display: inline-flex;         
+    padding-left: 45px;
+        }
+    .sud{margin-top: 0px;
+    list-style:none;
+    padding-right: 45px;
+    padding-left: 42px;
+text-align: right;}
+    
+
+
+
+
+    .forma{font-family: 'Poiret One', cursive;
+
+
+        padding-left: 0px;
+        margin-top:100px;
+        padding-left: 0px;}
+    
+    
+    
+    ul{
+            padding-left: 110px;
+        list-style:none;
+        font-family: 'Open Sans', sans-serif;
+font-size: 25px;
+    }
+     
+        
+
+ 
+    .gra{font-weight : bold;
+
+        
+    }
+    .nord{margin-top: 0px;
+   
+        padding-left: 466px; 
+    
+    padding-left: 0px;}
+    
+    
+    .flo{
+        float: left;
+    }
+    
+    .kcc{    padding-bottom: 15px;}
+    
+    
+    .turc{ color: #85caee;}
+    .projet{margin-top:160px;}
+    .taille{width: 230px;
+        padding-left: 0px;}
+    
+
+    
+.ajout:before{
+        font-family:'fontAwesome';
+        content:"\f0a3";
+    }
+
+
+
+   
+   .place{padding-left: 30px;}
+   p.forma.turc.place{     padding-left: 53px;}
+   mark{ color: #52656d;
+    background: none;
+    font-weight : bold;
+   }
+  
